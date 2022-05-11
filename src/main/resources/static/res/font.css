@@ -1,0 +1,73 @@
+body {
+	font-family: 'Poor Story', cursive;
+}
+footer {
+	left: 0px;
+	bottom: 0px;
+	height: 100px;
+	width: 100%;
+	margin:auto;
+	color: black;
+}
+
+
+ul li {
+	list-style-type: none;
+	float: left;
+}
+
+h1 {
+	font-family: 'Poor Story', cursive;
+}
+
+input.form-control.w100 {
+	width: 100px;
+	font-size: 13px;
+}
+
+input.form-control.w200 {
+	width: 200px;
+	font-size: 13px;
+}
+
+input.form-control.w4h2 {
+	width: 400px;
+	height: 200px;
+	font-size: 13px;
+}
+
+input.form-control.w2h1 {
+	width: 200px;
+	height: 100px;
+	font-size: 13px;
+}
+
+input.form-control.w300 {
+	width: 300px;
+	font-size: 13px;
+}
+
+input.form-control.w400 {
+	width: 400px;
+	font-size: 13px;
+}
+
+select.form-control.w100 {
+	width: 100px;
+	font-size: 13px;
+}
+
+select.form-control.w200 {
+	width: 200px;
+	font-size: 13px;
+}
+
+select.form-control.w300 {
+	width: 300px;
+	font-size: 13px;
+}
+
+select.form-control.w400 {
+	width: 400px;
+	font-size: 13px;
+}
